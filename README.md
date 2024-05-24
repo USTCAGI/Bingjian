@@ -1,4 +1,4 @@
-# BingJian: Towards Fair and Personalized Benchmarking
+# Bingjian（冰鉴）：Towards Personalized Evaluation of Large Language Models with An Anonymous Crowd-Sourcing Platform
 
 This repository contains the code implementation and relevant resources for the research paper titled "Towards Fair and Personalized Benchmarking: An Anonymous Crowd-Sourcing Platform for Large Language Model Evaluation" by Mingyue Cheng et al.
 
